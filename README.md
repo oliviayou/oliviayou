@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Olivia
-📚  Management Engineering student at the University of Waterloo<br>
+📚  [Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) student at the University of Waterloo<br>
 💻  Software Developer at RBC<br>
 🌱  Currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning/)<br>
 💡  Interested in software development and building user centered experiences<br>
